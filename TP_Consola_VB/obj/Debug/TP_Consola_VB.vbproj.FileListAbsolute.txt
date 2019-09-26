@@ -1,0 +1,11 @@
+C:\Users\Crissu\source\repos\TP_WinForms\TP_Consola_VB\TP_Consola_VB\bin\Debug\TP_Consola_VB.exe.config
+C:\Users\Crissu\source\repos\TP_WinForms\TP_Consola_VB\TP_Consola_VB\bin\Debug\TP_Consola_VB.exe
+C:\Users\Crissu\source\repos\TP_WinForms\TP_Consola_VB\TP_Consola_VB\bin\Debug\TP_Consola_VB.pdb
+C:\Users\Crissu\source\repos\TP_WinForms\TP_Consola_VB\TP_Consola_VB\bin\Debug\TP_Consola_VB.xml
+C:\Users\Crissu\source\repos\TP_WinForms\TP_Consola_VB\TP_Consola_VB\obj\Debug\TP_Consola_VB.vbprojAssemblyReference.cache
+C:\Users\Crissu\source\repos\TP_WinForms\TP_Consola_VB\TP_Consola_VB\obj\Debug\TP_Consola_VB.Resources.resources
+C:\Users\Crissu\source\repos\TP_WinForms\TP_Consola_VB\TP_Consola_VB\obj\Debug\TP_Consola_VB.vbproj.GenerateResource.cache
+C:\Users\Crissu\source\repos\TP_WinForms\TP_Consola_VB\TP_Consola_VB\obj\Debug\TP_Consola_VB.vbproj.CoreCompileInputs.cache
+C:\Users\Crissu\source\repos\TP_WinForms\TP_Consola_VB\TP_Consola_VB\obj\Debug\TP_Consola_VB.exe
+C:\Users\Crissu\source\repos\TP_WinForms\TP_Consola_VB\TP_Consola_VB\obj\Debug\TP_Consola_VB.xml
+C:\Users\Crissu\source\repos\TP_WinForms\TP_Consola_VB\TP_Consola_VB\obj\Debug\TP_Consola_VB.pdb
